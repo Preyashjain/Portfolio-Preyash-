@@ -25,7 +25,7 @@ export const experience: ExperienceItem[] = [
     type: "work",
     title: "Project Volunteer — GenAI & Backend Engineering",
     org: "Gudsky Research Foundation",
-    period: "Oct 2025 — Present",
+    period: "Oct 2025 — Mar 2026",
     points: [
       "Architecting a GenAI webmail system integrating 5 open-source LLMs (Llama 3, Mistral 7B, Phi-3, Gemma 2) via HuggingFace Transformers and Ollama.",
       "Built REST APIs in Flask and PostgreSQL, with multi-provider OAuth 2.0 (Gmail, Outlook) and IMAP/SMTP integration.",

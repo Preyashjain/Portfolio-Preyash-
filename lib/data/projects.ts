@@ -33,7 +33,7 @@ export const projects: Project[] = [
       "Calibration diagnostics (z-score vs. contraction) confirmed the posteriors weren't just narrow — they were honest.",
       "Presented findings and methodology in a Beamer deck with a prepared Q&A defense of the modeling choices.",
     ],
-    links: [{ label: "GitHub", href: "https://github.com/Preyashjain" }], // TODO(link): real repo URL
+    links: [{ label: "GitHub", href: "https://github.com/Preyashjain/gravitational-wave-parameter-estimation" }],
   },
   {
     slug: "3d-point-cloud-reconstruction",
@@ -126,7 +126,7 @@ export const projects: Project[] = [
     impact: [
       "27/27 tests passing; submitted as the course final project and received positive feedback.",
     ],
-    links: [{ label: "GitHub", href: "https://github.com/Preyashjain" }], // TODO(link): real repo URL
+    links: [{ label: "GitHub", href: "https://github.com/Preyashjain/Titanic-odds" }],
   },
 ];
 
