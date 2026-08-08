@@ -21,7 +21,6 @@ export const siteConfig = {
   availability: "Open to Werkstudent & internship roles",
   resume: {
     en: "/resume/preyash-jain-cv-en.pdf",
-    de: "/resume/preyash-jain-cv-de.pdf",
   },
 };
 

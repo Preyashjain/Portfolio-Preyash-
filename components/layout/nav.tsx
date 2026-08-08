@@ -133,7 +133,7 @@ function Nav() {
               download
               className="text-[13px] font-medium text-accent"
             >
-              Download resume
+              Resume
             </a>
             <ThemeToggle />
           </div>

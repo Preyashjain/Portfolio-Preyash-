@@ -57,7 +57,7 @@ export const projects: Project[] = [
       "Reconstructed and validated 3.2M+ 3D points from a single monocular video sequence.",
       "The SIFT → SuperPoint/LightGlue switch and Fundamental → Essential Matrix simplification were both made in response to professor feedback mid-project — and both measurably improved reconstruction quality.",
     ],
-    links: [{ label: "GitHub", href: "https://github.com/Preyashjain" }], // TODO(link): real repo URL
+    links: [{ label: "GitHub", href: "https://github.com/Preyashjain/Point-Cloud-Generation-" }],
   },
   {
     slug: "creator-brand-marketplace",

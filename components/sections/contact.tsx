@@ -57,11 +57,7 @@ function Contact() {
               <div className="flex items-center gap-3 pt-1 font-mono text-[12.5px] text-muted-foreground">
                 <span>Resume:</span>
                 <a href={siteConfig.resume.en} download className="text-accent hover:underline">
-                  English
-                </a>
-                <span aria-hidden>·</span>
-                <a href={siteConfig.resume.de} download className="text-accent hover:underline">
-                  Deutsch
+                  Resume Download
                 </a>
               </div>
 
