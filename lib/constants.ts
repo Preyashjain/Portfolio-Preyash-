@@ -20,7 +20,7 @@ export const siteConfig = {
   linkedin: "https://www.linkedin.com/in/preyash-jain-91baa8230",
   availability: "Open to Werkstudent & internship roles",
   resume: {
-    en: "/resume/preyash-jain-cv-en.pdf",
+    en: "/resume/PreyashCV.pdf",
   },
 };
 
