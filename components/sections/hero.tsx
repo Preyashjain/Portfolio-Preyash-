@@ -28,7 +28,7 @@ function Hero() {
 
           <StaggerItem>
             <h1 className="text-balance text-[38px] font-semibold leading-[1.12] tracking-tight text-foreground md:text-[52px]">
-              I build machine learning systems — and the backend
+              I build machine learning systems and the backend
               infrastructure they run on.
             </h1>
           </StaggerItem>
