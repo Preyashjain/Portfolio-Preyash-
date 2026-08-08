@@ -54,13 +54,6 @@ function Contact() {
                 </button>
               </div>
 
-              <div className="flex items-center gap-3 pt-1 font-mono text-[12.5px] text-muted-foreground">
-                <span>Resume:</span>
-                <a href={siteConfig.resume.en} download className="text-accent hover:underline">
-                  Resume Download
-                </a>
-              </div>
-
               <div className="flex items-center gap-5 pt-1">
                 <a
                   href={siteConfig.linkedin}
@@ -78,6 +71,14 @@ function Contact() {
                   className="inline-flex items-center gap-1.5 text-[13.5px] font-medium text-muted-foreground hover:text-foreground"
                 >
                   GitHub
+                  <ArrowUpRight className="h-3 w-3" />
+                </a>
+                <a
+                  href={siteConfig.resume.en}
+                  download
+                  className="inline-flex items-center gap-1.5 text-[13.5px] font-medium text-muted-foreground hover:text-foreground"
+                >
+                  Resume
                   <ArrowUpRight className="h-3 w-3" />
                 </a>
               </div>
