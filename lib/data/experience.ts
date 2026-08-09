@@ -15,7 +15,7 @@ export const experience: ExperienceItem[] = [
     title: "M.Sc. Data Science",
     org: "TU Dortmund University",
     location: "Dortmund, Germany",
-    period: "Apr 2026 — Present",
+    period: "Apr 2026 to Present",
     points: [
       "Coursework spanning simulation-based inference, industrial data science, and advanced statistical learning.",
     ],
@@ -23,9 +23,9 @@ export const experience: ExperienceItem[] = [
   {
     id: "gudsky",
     type: "work",
-    title: "Project Volunteer — GenAI & Backend Engineering",
+    title: "Project Volunteer, GenAI & Backend Engineering",
     org: "Gudsky Research Foundation",
-    period: "Oct 2025 — Mar 2026",
+    period: "Oct 2025 to Mar 2026",
     points: [
       "Architecting a GenAI webmail system integrating 5 open-source LLMs (Llama 3, Mistral 7B, Phi-3, Gemma 2) via HuggingFace Transformers and Ollama.",
       "Built REST APIs in Flask and PostgreSQL, with multi-provider OAuth 2.0 (Gmail, Outlook) and IMAP/SMTP integration.",
@@ -38,7 +38,7 @@ export const experience: ExperienceItem[] = [
     type: "work",
     title: "AI & Cloud Intern",
     org: "Edunet Foundation × IBM SkillsBuild",
-    period: "Jul 2025 — Aug 2025",
+    period: "Jul 2025 to Aug 2025",
     points: [
       "Built a RAG pipeline on IBM Cloud using IBM Granite, LangChain, and a Milvus vector database.",
       "Implemented the document chunking, embedding, and vector-indexing stages of the pipeline.",
@@ -50,7 +50,7 @@ export const experience: ExperienceItem[] = [
     type: "work",
     title: "Data Analysis Intern",
     org: "Sankalp Concepts",
-    period: "Oct 2024 — Dec 2024",
+    period: "Oct 2024 to Dec 2024",
     points: [
       "Led a team of 5+ interns on data analysis for school-profiling projects.",
       "Built information-collection pipelines in Excel and Google Sheets to support strategic decisions.",
@@ -62,7 +62,7 @@ export const experience: ExperienceItem[] = [
     title: "B.Tech, Computer Science Engineering",
     org: "Bhilai Institute of Technology",
     location: "Raipur, India",
-    period: "2021 — 2025",
+    period: "2021 to 2025",
     points: [],
   },
 ];

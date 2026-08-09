@@ -36,7 +36,7 @@ function Hero() {
           <StaggerItem>
             <p className="mt-6 max-w-[540px] text-pretty text-[16px] leading-relaxed text-muted-foreground md:text-[17px]">
               Recent work spans simulation-based inference, 3D computer
-              vision, and production RAG pipelines — built alongside an
+              vision, and production RAG pipelines, built alongside an
               M.Sc. in Data Science at TU Dortmund.
             </p>
           </StaggerItem>

@@ -10,21 +10,21 @@ import "./globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
-    default: `${siteConfig.name} — ${siteConfig.title}`,
-    template: `%s — ${siteConfig.name}`,
+    default: `${siteConfig.name}, ${siteConfig.title}`,
+    template: `%s, ${siteConfig.name}`,
   },
   description: siteConfig.description,
   authors: [{ name: siteConfig.name, url: siteConfig.url }],
   openGraph: {
     type: "website",
     url: siteConfig.url,
-    title: `${siteConfig.name} — ${siteConfig.title}`,
+    title: `${siteConfig.name}, ${siteConfig.title}`,
     description: siteConfig.description,
     siteName: siteConfig.name,
   },
   twitter: {
     card: "summary_large_image",
-    title: `${siteConfig.name} — ${siteConfig.title}`,
+    title: `${siteConfig.name}, ${siteConfig.title}`,
     description: siteConfig.description,
   },
   robots: { index: true, follow: true },

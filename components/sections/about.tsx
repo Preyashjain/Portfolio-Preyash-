@@ -22,8 +22,8 @@ function About() {
                 I&apos;m an M.Sc. Data Science student at TU Dortmund,
                 originally from India and now building software in Germany.
                 My work sits between two things that don&apos;t always meet:
-                rigorous ML — simulation-based inference, calibration
-                diagnostics, computer vision from first principles — and the
+                rigorous ML, simulation-based inference, calibration
+                diagnostics, computer vision from first principles, and the
                 unglamorous engineering that makes any of it usable: APIs,
                 schemas, containers, tests.
               </p>

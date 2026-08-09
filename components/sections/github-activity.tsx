@@ -26,7 +26,7 @@ async function GitHubActivity() {
         <SectionHeading
           eyebrow="GitHub"
           title="Pulled live from the source."
-          description="Repositories and activity below are fetched directly from the GitHub API — not a static screenshot."
+          description="Repositories and activity below are fetched directly from the GitHub API, not a static screenshot."
         />
 
         {profile ? (
@@ -110,7 +110,7 @@ async function GitHubActivity() {
         ) : (
           <Reveal>
             <p className="text-[14px] text-muted-foreground">
-              Couldn&apos;t reach the GitHub API just now —{" "}
+              Couldn&apos;t reach the GitHub API just now,{" "}
               <a href={siteConfig.github} className="text-accent underline underline-offset-2">
                 view the profile directly
               </a>

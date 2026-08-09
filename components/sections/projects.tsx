@@ -14,7 +14,7 @@ function Projects() {
         <SectionHeading
           eyebrow="Selected work"
           title="Case studies, not a screenshot dump."
-          description="Problem, approach, and outcome for each — plus the smaller builds below."
+          description="Problem, approach, and outcome for each, plus the smaller builds below."
         />
 
         <div className="space-y-6">
